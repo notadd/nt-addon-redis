@@ -18,7 +18,8 @@
     },
     "license": "Apache-2.0",
     "dependencies": {
-        "ioredis": "4.0.0"
+        "ioredis": "4.0.0",
+        "@types/ioredis": "4.0.1"
     },
     "bugs": {
         "url": "https://github.com/notadd/ns-addon-redis/issues"
