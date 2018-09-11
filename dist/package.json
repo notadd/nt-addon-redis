@@ -13,7 +13,7 @@
         "type": "git",
         "url": "https://github.com/notadd/ns-addon-redis"
     },
-    "license": "MIT",
+    "license": "Apache-2.0",
     "dependencies": {
         "ioredis": "4.0.0"
     }

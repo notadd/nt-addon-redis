@@ -4,7 +4,7 @@
   "description": "The redis addon for Notadd modules.",
   "main": "main.ts",
   "author": "dzzzzzy",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
     "build": "node --max_old_space_size=4096 ./node_modules/gulp/bin/gulp.js build",
     "publish": "node ./node_modules/lerna/bin/lerna.js publish -m \"chore(release): publish %s\""
