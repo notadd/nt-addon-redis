@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "scripts": {
     "build": "node --max_old_space_size=4096 ./node_modules/gulp/bin/gulp.js build",
-    "publish": "node ./node_modules/lerna/bin/lerna.js publish -m \"chore(release): publish %s\""
+    "publish": "./node_modules/.bin/lerna publish -m \"chore(release): publish %s\""
   },
   "dependencies": {
     "@nestjs/common": "^5.3.6",
