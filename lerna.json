@@ -1,0 +1,7 @@
+{
+    "lerna": "3.3.0",
+    "packages": [
+      "dist"
+    ],
+    "version": "0.1.0"
+  }

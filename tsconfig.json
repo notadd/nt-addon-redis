@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "baseUrl": "./",
+        "declaration": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "noLib": false,
+        "lib": [
+            "es2015"
+        ],
+        "noUnusedLocals": false,
+        "removeComments": true,
+        "strict": false,
+        "strictPropertyInitialization": false,
+        "target": "es2015",
+        "outDir": "dist"
+    },
+    "include": [
+        "src/*.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "test"
+    ]
+}

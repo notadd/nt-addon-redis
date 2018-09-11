@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/redis.constants.ts"],"names":[],"mappings":"AAAA,eAAO,MAAM,oBAAoB,yBAAyB,CAAC;AAC3D,eAAO,MAAM,oBAAoB,yBAAyB,CAAC","file":"redis.constants.d.ts","sourcesContent":["export const REDIS_MODULE_OPTIONS = 'REDIS_MODULE_OPTIONS';\nexport const REDIS_PROVIDER_TOKEN = 'REDIS_PROVIDER_TOKEN';"]}

@@ -1,0 +1,20 @@
+{
+    "name": "@notadd/addon-redis",
+    "version": "0.1.0",
+    "description": "The redis addon for Notadd modules.",
+    "main": "index.js",
+    "author": "notadd",
+    "keywords": [
+        "Notadd",
+        "Nestjs",
+        "Redis"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/notadd/ns-addon-redis"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "ioredis": "4.0.0"
+    }
+}
