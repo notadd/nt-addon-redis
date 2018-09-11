@@ -1,6 +1,6 @@
 {
     "name": "@notadd/addon-redis",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "The redis addon for Notadd modules.",
     "main": "index.js",
     "author": "notadd",
@@ -18,8 +18,8 @@
     },
     "license": "Apache-2.0",
     "dependencies": {
-        "ioredis": "4.0.0",
-        "@types/ioredis": "4.0.1"
+        "@types/ioredis": "4.0.1",
+        "ioredis": "4.0.0"
     },
     "bugs": {
         "url": "https://github.com/notadd/ns-addon-redis/issues"
