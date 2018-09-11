@@ -4,6 +4,9 @@
     "description": "The redis addon for Notadd modules.",
     "main": "index.js",
     "author": "notadd",
+    "publishConfig": {
+        "access": "public"
+    },
     "keywords": [
         "Notadd",
         "Nestjs",
