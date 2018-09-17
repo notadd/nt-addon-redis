@@ -1,4 +1,4 @@
-# ns-addon-redis
+# nt-addon-redis
 
 Redis addon for Notadd.
 

@@ -1,5 +1,5 @@
 {
-  "name": "ns-addon-ioredis",
+  "name": "nt-addon-ioredis",
   "version": "0.1.0",
   "description": "The redis addon for Notadd modules.",
   "main": "main.ts",
