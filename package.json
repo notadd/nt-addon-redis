@@ -1,6 +1,6 @@
 {
   "name": "nt-addon-ioredis",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "The redis addon for Notadd modules.",
   "main": "main.ts",
   "author": "dzzzzzy",
@@ -25,7 +25,6 @@
     "gulp-tslint": "^8.1.3",
     "gulp-typescript": "^5.0.0-alpha.3",
     "lerna": "^3.3.0",
-    "nodemon": "^1.18.4",
     "ts-node": "^7.0.1",
     "tsconfig-paths": "^3.6.0",
     "tslint": "^5.11.0",
